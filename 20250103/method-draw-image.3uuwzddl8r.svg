@@ -1,0 +1,27 @@
+<svg width="16" height="25" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+ <title>图形</title>
+ <desc>Created with Sketch.</desc>
+ <defs>
+  <linearGradient id="linearGradient-1" y2="25.1599668%" x2="91.0524889%" y1="0%" x1="62.1023273%">
+   <stop offset="0%" stop-color="#2E7EFF"/>
+   <stop offset="100%" stop-color="#FFFFFF"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="679" width="1212" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="首页">
+   <g transform="rotate(135 -143.9765167236328,-16.15194129943848) translate(68.5,46) scale(-1,1) translate(-68.5,-46) translate(56,36) " id="图形">
+    <path fill-rule="nonzero" fill="url(#linearGradient-1)" id="Shape" d="m77.62203,-31.24822l-14.25075,14.13765c-0.85367,0.84516 2.53871,2.93971 2.75118,2.72935l12.68027,-12.55396c0.21248,-0.21036 0.53495,-0.21036 0.74743,0l5.04716,4.99688c0.76452,0.7569 2.00405,0.7569 2.76857,0c0.76451,-0.7569 0.76451,-1.98409 0,-2.74099l-6.65698,-6.59068c-0.85717,-0.82687 -2.23649,-0.82017 -3.08688,0.02175z"/>
+    <path fill-rule="nonzero" fill="#FFFFFF" id="Shape" d="m77.62203,-31.24822l-14.25075,14.13765c-0.44208,0.43767 -0.26746,1.53594 0.45049,2.24218c0.66844,0.65753 1.85117,0.9588 2.31363,0.50001c0.63945,-0.63438 4.8619,-4.82331 12.66733,-12.5668c0.52906,-0.45193 1.39228,-1.36729 2.65991,-1.58138c0.94209,-0.15911 1.97204,0.19108 3.08987,1.05057c-0.74734,-0.73989 -2.02854,-2.00788 -3.8436,-3.80398c-0.85717,-0.82687 -2.23649,-0.82017 -3.08688,0.02175z"/>
+    <ellipse ry="2.328571" rx="2.352" cy="-14.338095" cx="77.784" stroke-width="0.5" stroke="#FFFFFF" id="Combined-Shape"/>
+   </g>
+  </g>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Shadows Into Light', serif" font-size="14" id="svg_2" y="17.322695" x="3.723902" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff">T</text>
+  <path stroke="#ffffff" id="svg_6" d="m1.277579,13.221449l4.441284,-1.95036l0,0.975177l6.436582,0l0,-0.975177l4.441282,1.95036l-4.441282,1.95035l0,-0.975175l-6.436582,0l0,0.975175l-4.441284,-1.95035z" stroke-width="0.6" fill="#ffffff"/>
+ </g>
+</svg>
