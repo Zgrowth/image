@@ -1,0 +1,29 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+ <title>图形</title>
+ <desc>Created with Sketch.</desc>
+ <defs>
+  <linearGradient id="linearGradient-1" y2="25.1599668%" x2="91.0524889%" y1="0%" x1="62.1023273%">
+   <stop offset="0%" stop-color="#2E7EFF"/>
+   <stop offset="100%" stop-color="#FFFFFF"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="258" width="258" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="首页">
+   <g transform="rotate(135 -428.23980712890625,301.9166259765625) translate(68.5,46) scale(-1,1) translate(-68.5,-46) translate(56,36) " id="图形">
+    <path fill-rule="nonzero" fill="url(#linearGradient-1)" id="Shape" d="m77.62203,-31.24822l-14.25075,14.13765c-0.85367,0.84516 2.53871,2.93971 2.75118,2.72935l12.68027,-12.55396c0.21248,-0.21036 0.53495,-0.21036 0.74743,0l5.04716,4.99688c0.76452,0.7569 2.00405,0.7569 2.76857,0c0.76451,-0.7569 0.76451,-1.98409 0,-2.74099l-6.65698,-6.59068c-0.85717,-0.82687 -2.23649,-0.82017 -3.08688,0.02175z"/>
+    <path fill-rule="nonzero" fill="#FFFFFF" id="Shape" d="m77.62203,-31.24822l-14.25075,14.13765c-0.44208,0.43767 -0.26746,1.53594 0.45049,2.24218c0.66844,0.65753 1.85117,0.9588 2.31363,0.50001c0.63945,-0.63438 4.8619,-4.82331 12.66733,-12.5668c0.52906,-0.45193 1.39228,-1.36729 2.65991,-1.58138c0.94209,-0.15911 1.97204,0.19108 3.08987,1.05057c-0.74734,-0.73989 -2.02854,-2.00788 -3.8436,-3.80398c-0.85717,-0.82687 -2.23649,-0.82017 -3.08688,0.02175z"/>
+    <ellipse ry="2.328571" rx="2.352" cy="-14.338095" cx="77.784" stroke-width="0.5" stroke="#FFFFFF" id="Combined-Shape"/>
+   </g>
+  </g>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="69.472342" x2="189.250317" y1="69.972344" x1="85.249766" fill-opacity="null" stroke-opacity="null" stroke-width="16" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_13" y2="190.972987" x2="81.249745" y1="61.972302" x1="81.249745" fill-opacity="null" stroke-opacity="null" stroke-width="16" stroke="#000000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_14" y2="98.472495" x2="188.750315" y1="98.472495" x1="119.249946" fill-opacity="null" stroke-opacity="null" stroke-width="16" stroke="#000000" fill="none"/>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_15" y2="191.972991" x2="180.250269" y1="93.972472" x1="180.750275" fill-opacity="null" stroke-opacity="null" stroke-width="16" fill="none"/>
+ </g>
+</svg>
